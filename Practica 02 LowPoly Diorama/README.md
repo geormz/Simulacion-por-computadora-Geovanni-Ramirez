@@ -4,4 +4,4 @@
 
 #captura 02
 
-![Screenshot from 2023-09-12 11-24-44](https://github.com/geormz/Simulacion-por-computadora-Geovanni-Ramirez/assets/113058235/fe901390-bf31-4ac1-92cc-9d6b4f2a63f7)
+![Screenshot from 2023-09-12 11-24-37](https://github.com/geormz/Simulacion-por-computadora-Geovanni-Ramirez/assets/113058235/3b3c19e6-e7e4-42fd-85ae-a5162b3ae643)
